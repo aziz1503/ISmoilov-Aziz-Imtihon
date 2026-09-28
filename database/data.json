@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15",
+    "brand": "Apple",
+    "category": "Electronics",
+    "stock": 25,
+    "price": 14500000,
+    "image": null
+  },
+  {
+    "id": 2,
+    "name": "Classic T-shirt",
+    "brand": "Zara",
+    "category": "Clothing",
+    "stock": 120,
+    "price": 150000,
+    "image": null
+  },
+  {
+    "id": 3,
+    "name": "Galaxy S24",
+    "brand": "Samsung",
+    "category": "Electronics",
+    "stock": 30,
+    "price": 12000000,
+    "image": null
+  },
+  {
+    "id": 4,
+    "name": "Chocolate Bar",
+    "brand": "Rot Front",
+    "category": "Food",
+    "stock": 500,
+    "price": 12000,
+    "image": null
+  },
+  {
+    "id": 5,
+    "name": "Air Max 90",
+    "brand": "Nike",
+    "category": "Clothing",
+    "stock": 40,
+    "price": 1400000,
+    "image": null
+  },
+  {
+    "id": 6,
+    "name": "MacBook Air M3",
+    "brand": "Apple",
+    "category": "Electronics",
+    "stock": 10,
+    "price": 16000000,
+    "image": null
+  },
+  {
+    "id": 7,
+    "name": "Green Tea",
+    "brand": "Ahmad Tea",
+    "category": "Food",
+    "stock": 300,
+    "price": 35000,
+    "image": null
+  },
+  {
+    "id": 8,
+    "name": "Denim Jacket",
+    "brand": "Levi's",
+    "category": "Clothing",
+    "stock": 35,
+    "price": 900000,
+    "image": null
+  },
+  {
+    "id": 9,
+    "name": "Smart TV 55",
+    "brand": "Artel",
+    "category": "Electronics",
+    "stock": 15,
+    "price": 6500000,
+    "image": null
+  },
+  {
+    "id": 10,
+    "name": "Running Shorts",
+    "brand": "Adidas",
+    "category": "Clothing",
+    "stock": 80,
+    "price": 250000,
+    "image": null
+  },
+  {
+    "id": 11,
+    "name": "Apple Juice",
+    "brand": "Dena",
+    "category": "Food",
+    "stock": 200,
+    "price": 18000,
+    "image": null
+  },
+  {
+    "id": 12,
+    "name": "Galaxy Buds 3",
+    "brand": "Samsung",
+    "category": "Electronics",
+    "stock": 60,
+    "price": 1800000,
+    "image": null
+  },
+  {
+    "id": 13,
+    "name": "Redmi Note 14 Pro",
+    "brand": "Xiaomi",
+    "category": "Electronics",
+    "stock": 75,
+    "price": 3500000,
+    "image": null
+  }
+]
